@@ -43,6 +43,7 @@ To do this, follow the steps:
     "C:\Users\leo12\.jdks\openjdk-18.0.1.1\bin\java.exe" -jar "E:\temp\project-maven-1.0.jar"
     ```
     You should see:
+  
   ![2023-10-23_19h03_29](https://github.com/ecotalisman/project-maven/assets/67708040/dfe575a4-42d5-4352-9583-d43ef55872c3)
 
     Builds depend on your operating system. Thus, if the JAR file is assembled on Windows, it can be executed on any computer with Windows and Java 18 but cannot be executed on Mac and Linux.
