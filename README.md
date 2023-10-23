@@ -94,3 +94,8 @@ To do this, follow the steps:
     ```bash
     "C:\Users\leo12\.jdks\openjdk-18.0.1.1\bin\java.exe" -jar "E:\temp\project-maven-1.0.jar"
     ```
+    В результаті ти побачиш:
+  
+  ![2023-10-23_19h03_29](https://github.com/ecotalisman/project-maven/assets/67708040/dfe575a4-42d5-4352-9583-d43ef55872c3)
+
+  Білд залежить від твоєї операційної системи. Тобто якщо JAR-файл зібрано на Windows, його можна виконати на будь-якому комп'ютері з Windows та Java 18 і не можна виконати на Mac та Linux.
