@@ -1,5 +1,5 @@
-# Maven Project
-## JavaRush University
+# Maven
+# Module 3 Project #1 JavaRush University
 
 **Module 3. Java Professional**  
 **Level 2, Lecture 6**
@@ -51,8 +51,8 @@ To do this, follow the steps:
 ---
 ### 🇺🇦 Ukrainian version:
 ---
-# Проєкт Maven
-## JavaRush University
+# Maven
+# Модуль 3 Проєкт #1 JavaRush University
 
 **Модуль 3. Java Professional**  
 **Рівень 2, Лекція 6**
