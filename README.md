@@ -1,8 +1,8 @@
-# Module 3
-# Project Topic: Maven [JavaRush University]
+# Maven Project
+## JavaRush University
 
-## Module 3. Java Professional
-### Level 2, Lecture 6
+**Module 3. Java Professional**  
+**Level 2, Lecture 6**
 
 **Task**: Create a JAR file with a JavaFX game using the JavaRush graphics engine. 
 To do this, follow the steps:
@@ -51,11 +51,11 @@ To do this, follow the steps:
 ---
 ### 🇺🇦 Ukrainian version:
 ---
-# Модуль 3
-# Проєкт на тему: Maven [JavaRush University]
+# Проєкт Maven
+## JavaRush University
 
 **Модуль 3. Java Professional**  
-Рівень 2, Лекція 6
+**Рівень 2, Лекція 6**
 
 ## Завдання
 Зробити JAR-файл із грою на JavaFX за допомогою графічного рушія JavaRush. Для цього потрібно:
